@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 2.5em; margin: 10px 0; color: #E8D5FF;">✨ Amritesh Sahu</h1>
+  <h1 style="font-size: 2.5em; margin: 10px 0; color: #E8D5FF;">Amritesh Sahu</h1>
   <p style="font-size: 1.1em; margin: 5px 0;">
     <strong style="color: #B4D4FF;">🎓 Data Science @ RVCE</strong> | <strong style="color: #A78BFA;">🤖 GenAI & Agentic AI Builder</strong>
   </p>
