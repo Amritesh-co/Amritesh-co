@@ -222,7 +222,7 @@ I'm a fourth-year Data Science student at **RV College of Engineering** who spen
 
 | Contributions | Languages | Streak |
 |:---:|:---:|:---:|
-| <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amritesh-co&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" alt="GitHub stats" /> | <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amritesh-co&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" /> | <img height="160" src="https://streak-stats.demolab.com?user=Amritesh-co&hide_border=true&theme=dark" alt="GitHub streak" /> |
+| <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amritesh-co&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" /> | <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritesh-co&layout=compact&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=graph-Engine&cache_seconds=86400" alt="Top languages" /> | <img height="160" src="https://streak-stats.demolab.com?user=Amritesh-co&hide_border=true&theme=dark" alt="GitHub streak" /> |
 
 </div>
 
